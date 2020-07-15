@@ -1,2 +1,2 @@
-# bootstrap
-Introdução ao Bootstrap.
+# aula_bootstrap
+Utilizando Bootstrap.
